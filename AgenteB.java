@@ -1,3 +1,10 @@
+package agentes;
+import jade.core.Agent;
+import jade.core.behaviours.Behaviour;
+/**
+ *
+ * @author areli
+ */
 public class AgenteB extends Agent
 {
     protected void setup()
